@@ -1,4 +1,4 @@
-## **Megat Job Application Bot*
+## **Megat Job Application Bot**
 
 ![LinkedIn Bot](https://img.shields.io/badge/Automation-LinkedIn-blue) ![Python](https://img.shields.io/badge/Python-3.x-yellow.svg) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
